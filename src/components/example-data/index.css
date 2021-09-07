@@ -1,0 +1,16 @@
+.example-data {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0rem 10rem;
+}
+
+.example-data > table {
+  margin-top: 2rem;
+  min-width: 650px;
+  min-height: 40px;
+}
+
+td {
+  min-width: 305px;
+}
