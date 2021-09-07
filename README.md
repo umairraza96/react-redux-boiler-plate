@@ -1,1 +1,1 @@
-# React with Redux Boiler Plater with Redux thunks
+# React with Redux Boiler Plater using Redux thunks
