@@ -14,7 +14,7 @@ function App() {
             exact={route.exact}
             render={() => {
               if (!route.private) return route.component;
-              //add your private route logice here like jwt
+              //add your private route logic here like jwt
               else if (route.private && true) return route.component;
               //replace redirect location to where you want to redirect
               else return <Redirect to="/" />;
